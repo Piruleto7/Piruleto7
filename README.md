@@ -1,4 +1,4 @@
-# Bienvenido a Piruleto7
+# Bienvenido a Piruleto7 Dev
 
 ## Descripción
 Este repositorio alberga mis aplicaciones profesionales desarrolladas con Python (Django), MySQL, SQLite, JavaScript, HTML y CSS.
@@ -20,5 +20,6 @@ Aquí encontrarás aplicaciones que he desarrollado para diversas necesidades.
 
 Contacto
 Correo electrónico: jaravapa@gmail.com
+Celular 3173683155
 Contribuciones
 ¡Las contribuciones son bienvenidas! Si deseas colaborar, por favor sigue las pautas de contribución.
