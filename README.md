@@ -18,8 +18,8 @@ JavaScript
 HTML
 CSS
 Aquí encontrarás aplicaciones que he desarrollado para diversas necesidades.
-![image](https://github.com/Piruleto7/Piruleto7/assets/128342701/afcf4dfa-5a75-4888-be3a-516868b575bc)
 
+C:\Users\jarav\OneDrive\Escritorio\Curso de Diseño Web con CSS Grid y Flexbox V2\Diseno web\img\hacker.png
 
 Contacto
 Correo electrónico: jaravapa@gmail.com
