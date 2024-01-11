@@ -1,4 +1,4 @@
-# Bienvenido a [Nombre del Repositorio]
+# Bienvenido a [Piruleto 7]
 
 ## Descripción
 Este repositorio alberga mis aplicaciones profesionales desarrolladas con Python (Django), MySQL, SQLite, JavaScript, HTML y CSS.
@@ -7,8 +7,6 @@ Este repositorio alberga mis aplicaciones profesionales desarrolladas con Python
 ![image](https://github.com/Piruleto7/Piruleto7/assets/128342701/7ac19ed2-43de-4f48-9046-19bfcad0035d)
 
 ## Instalación
-Para obtener una copia de este proyecto, simplemente clona este repositorio:
-
 ```bash
 git clone https://github.com/tu-usuario/tu-repositorio.git
 Tecnologías Utilizadas
