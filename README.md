@@ -18,6 +18,8 @@ JavaScript
 HTML
 CSS
 Aquí encontrarás aplicaciones que he desarrollado para diversas necesidades.
+![image](https://github.com/Piruleto7/Piruleto7/assets/128342701/afcf4dfa-5a75-4888-be3a-516868b575bc)
+
 
 Contacto
 Correo electrónico: jaravapa@gmail.com
