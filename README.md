@@ -10,10 +10,10 @@ Este repositorio alberga mis aplicaciones profesionales desarrolladas con Python
 ## Instalación
 ```bash
 git clone https://github.com/tu-usuario/tu-repositorio.git
-![image](https://github.com/Piruleto7/Piruleto7/assets/128342701/adbdcfdd-6aac-4140-ae4c-3c9835d15c04)
 
 Tecnologías Utilizadas
-Python (Django)
+Python
+Django
 MySQL
 SQLite
 JavaScript
