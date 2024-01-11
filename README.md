@@ -1,4 +1,4 @@
-# Bienvenido a [Piruleto 7]
+# Bienvenido a Piruleto7
 
 ## Descripción
 Este repositorio alberga mis aplicaciones profesionales desarrolladas con Python (Django), MySQL, SQLite, JavaScript, HTML y CSS.
