@@ -12,8 +12,8 @@ Este repositorio alberga mis aplicaciones profesionales desarrolladas con Python
 git clone https://github.com/tu-usuario/tu-repositorio.git
 
 Tecnologías Utilizadas
-#Python
-#Django
+Python
+Django
 MySQL
 SQLite
 JavaScript
