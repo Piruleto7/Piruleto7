@@ -12,17 +12,17 @@ Este repositorio alberga mis aplicaciones profesionales desarrolladas con Python
 git clone https://github.com/tu-usuario/tu-repositorio.git
 
 Tecnologías Utilizadas
-Python
-Django
-MySQL
-SQLite
-JavaScript
-HTML
-CSS
+✅Python
+✅Django
+✅MySQL
+✅SQLite
+✅JavaScript
+✅HTML
+✅CSS
 Aquí encontrarás aplicaciones que he desarrollado para diversas necesidades.
 
-Contacto
-Correo electrónico: jaravapa@gmail.com
-Celular 3173683155
+🧑‍💻Contacto
+📧Correo electrónico: jaravapa@gmail.com
+📞Celular 3173683155
 Contribuciones
 ¡Las contribuciones son bienvenidas! Si deseas colaborar, por favor sigue las pautas de contribución.
