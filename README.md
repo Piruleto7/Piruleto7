@@ -12,16 +12,14 @@ Este repositorio alberga mis aplicaciones profesionales desarrolladas con Python
 git clone https://github.com/tu-usuario/tu-repositorio.git
 
 Tecnologías Utilizadas
-Python
-Django
+#Python
+#Django
 MySQL
 SQLite
 JavaScript
 HTML
 CSS
 Aquí encontrarás aplicaciones que he desarrollado para diversas necesidades.
-![image](https://github.com/Piruleto7/Piruleto7/assets/128342701/5d3013b2-912a-4c66-82aa-638678456234)
-
 
 Contacto
 Correo electrónico: jaravapa@gmail.com
