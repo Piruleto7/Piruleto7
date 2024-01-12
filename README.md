@@ -12,9 +12,8 @@
 
 ![image](https://github.com/Piruleto7/Piruleto7/assets/128342701/7ac19ed2-43de-4f48-9046-19bfcad0035d)
 
-## Instalación
-```bash
-<h3>
+
+<h1 align="center">Me puedes contactar Directamente asi:</h1>
 🧑‍💻Contacto
 📧Correo electrónico: jaravapa@gmail.com
 📞Celular 3173683155
