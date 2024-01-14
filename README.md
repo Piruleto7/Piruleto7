@@ -1,8 +1,8 @@
 <h1 align="center">Hola👋, me llamo Jairo Vanegas Paternina</h1>
-<h3 align="center">Soy Contador Publico, Tecnologo en sistemas informaticos, especialista en gerencia del Recurso Humano</h3>
-<h3 align="center">Actualmente Soy Administrador de Proyectos de Construcciones mecanicos y utilizo la programacion para dise;ar mis propias herramientas.</h3>
+<h3 align="center">Soy Contador Público, Tecnólogo en sistemas informáticos, Especialista en gerencia del Talento Humano</h3>
+<h3 align="center">Actualmente me desempeño como administrador de Proyectos en una empresa de montajes mecánicos, eléctricos y civiles, utilizo la programación para diseñar mis propias herramientas.</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Me Puedes Contactar:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/in/jairo-ramon-vanegas-paternina-5ba739a7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/jairo-ramon-vanegas-paternina-5ba739a7" height="30" width="40" /></a>
 </p>
