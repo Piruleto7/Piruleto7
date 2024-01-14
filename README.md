@@ -14,8 +14,8 @@
 
 
 <h1 align="center">Me puedes contactar Directamente asi:</h1>
-🧑‍💻Contacto
-📧Correo electrónico: jaravapa@gmail.com
-📞Celular 3173683155
-Contribuciones
-¡Las contribuciones son bienvenidas! Si deseas colaborar, por favor sigue las pautas de contribución.
+<h3>🧑‍💻Contacto</h3>
+<h3>📧Correo electrónico: jaravapa@gmail.com</h3>
+<h3>📞Celular 3173683155</h3>
+<h2>Contribuciones</h2>
+<p>¡Las contribuciones son bienvenidas! Si deseas colaborar, por favor sigue las pautas de contribución.</p>
